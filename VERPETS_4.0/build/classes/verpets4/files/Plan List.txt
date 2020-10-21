@@ -1,0 +1,7 @@
+Plan Name       Feasible?       RePLAN Estimated Runtime Overall    Longest POD         VERPETS Estimated Runtime Overall   Longest POD
+rockwall_1      Yes             33.88                               34.27               34.72                               34.72
+rockwall_2      No              39.52                               47.5                46.06                               46.06
+denton_1        Yes             30.06   15                          31.33               33.09                               33.08   15
+denton_2        No              40.07                               43.18
+dallas_1        Yes             30.04                               32.56
+dallas_2        No              40.02                               41.62
